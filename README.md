@@ -23,7 +23,7 @@
 
 <p align="center">
   <em>
-    Hello, I am Dhruv Rishishwar a <b>sophomore year</b> undergraduate from <a href="https://www.iiitdmj.ac.in/"> <b>IIITDM Jabalapur</b>, India (" Wisdom is all wealth ")</a>. <br>
+    Hello, I am Dhruv Rishishwar a <b>sophomore year</b> undergraduate from <a href="https://www.iiitdmj.ac.in/"> <b>IIITDM Jabalapur</b>, India</a>. <br>
     <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> 
   </em> 
   <br>
@@ -57,9 +57,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sneakyhydra&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Sneakyhydra&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
 <br><br><br><br><br>
-
-<hr>
-
-
-<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
-<img src="https://github-profile-trophy.vercel.app/?username=Sneakyhydra&theme=juicyfresh&no-bg=true" />
