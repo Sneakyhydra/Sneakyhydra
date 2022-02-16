@@ -9,6 +9,7 @@
 
 ### Find me on:
 <a href='https://www.linkedin.com/in/dhruv-rishishwar-36612a201/' target="_blank"><img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /><a/>
+<br/>
 
 ### Languages and Tools:
 
