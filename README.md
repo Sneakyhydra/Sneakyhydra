@@ -16,10 +16,10 @@
 <p align="center">
   <em>
     Hello, I am Dhruv Rishishwar, a <b>sophomore year</b> undergraduate from <a href="https://www.iiitdmj.ac.in/"> <b>IIITDM Jabalapur</b>, India</a>. <br>
-    <b>A passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> 
+    <b>A passionate self-learner</b>
   </em> 
   <br>
-  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is not a problem to be solved, but a reality to be experienced.”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+  <b><i align="center">Thought : "Life is not a problem to be solved, but a reality to be experienced.”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 </p>
 <br><br>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
