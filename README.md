@@ -6,11 +6,6 @@
 - 😄 Pronouns: He/His
 
 "It's always been a feature" - Programmer
-- Wanna know more About me: 
-
-### Github Usage ~ Status
-
-[![Dhruv's github stats](https://github-readme-stats.vercel.app/api?username=Sneakyhydra&theme=dark&show_icons=true)](https://github.com/Sneakyhydra/github-readme-stats)
 
 ### Languages and Tools:
 
