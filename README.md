@@ -8,7 +8,7 @@
 <h1 align="center">Dhruv Rishishwar </h1>
 <h3 align="center">Full Stack Web Develper</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/dhruv-rishishwar-36612a201/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_ovindu" height="30" width="30" /></a>  
+<a href="https://www.linkedin.com/in/dhruv-rishishwar-36612a201/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_ovindu" height="30" width="30" /></a>&nbsp;
 <a href="https://www.instagram.com/dhruv_rishishwar/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174855.png" alt="insta_ovindu" height="30" width="30" /></a>
 </p>
 </p>
@@ -19,7 +19,7 @@
     <b>A passionate self-learner</b>
   </em> 
   <br>
-  <b><i align="center">Thought : "Life is not a problem to be solved, but a reality to be experienced.”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+  <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" /><b><i align="center">Thought : "Life is not a problem to be solved, but a reality to be experienced.”</i></b>
 </p>
 <br><br>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
