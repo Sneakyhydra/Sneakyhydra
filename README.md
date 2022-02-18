@@ -1,6 +1,6 @@
 ## Hey!!! I am Dhruv 👋 ##
 
-- 🔭 I’m currently working on: web devlopment!
+- 🔭 I’m currently working on: web development!
 - 🌱 I’m currently learning: web3 using solidity
 - 📫 How to reach me: 20BCS075@iiitdmj.ac.in
 - 😄 Pronouns: He/His
