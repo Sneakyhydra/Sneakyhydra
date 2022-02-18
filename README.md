@@ -1,4 +1,4 @@
-## Hey!!! I am Dhruv 👋 ##
+# Hey!!! I am Dhruv 👋 #
 
 - 🔭 I’m currently working on: web development!
 - 🌱 I’m currently learning: web3 using solidity
@@ -7,7 +7,7 @@
 
 "There’s no place like 127.0.0.1" - Web Developer
 
-### Find me on: ###
+## Find me on: ##
 <a href='https://www.linkedin.com/in/dhruv-rishishwar-36612a201/' target="_blank"><img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /><a/>
 <br/>
 
