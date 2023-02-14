@@ -1,8 +1,8 @@
 # Hey!!! I am Dhruv 👋 #
 
-- 🔭 I’m currently working on: web development!
-- 🌱 I’m currently learning: web3 using solidity
-- 📫 How to reach me: 20BCS075@iiitdmj.ac.in
+- 🔭 Currently working on: web development!
+- 🌱 Currently learning: Building apps with python3
+- 📫 How to reach me: dhruvrishishwar2@gmail.com
 - 😄 Pronouns: He/His
 
 "There’s no place like 127.0.0.1" - Web Developer
