@@ -1,7 +1,7 @@
 # Hey!!! I am Dhruv 👋 #
 
-- 🔭 Currently working on: web development!
-- 🌱 Currently learning: Building apps with python3
+- 🔭 Currently working on: Web Development!
+- 🌱 Currently learning: Building apps with python
 - 📫 How to reach me: dhruvrishishwar2@gmail.com
 
 "There’s no place like 127.0.0.1" - Web Developer
