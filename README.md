@@ -9,7 +9,7 @@
 ## Find me on: ##
 <a href='https://www.linkedin.com/in/dhruvrishishwar/' target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)<a/>
 <br/>
-Check out my [portfolio](https://dhruvrishishwar.vercel.app/)  
+Check out my [portfolio](https://www.dhruvrishishwar.com/)  
 <br/>
 ## Languages and Tools: ##
 
