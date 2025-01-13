@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm Dhruv Rishishwar! #
-🚀 Full-Stack Developer | Tech Enthusiast | Problem Solver
+🚀 Full-Stack Developer | Tech Enthusiast | Creative Problem Solver | Quick Learner
 
 I’m a passionate developer who loves turning ideas into scalable and impactful web applications. With a strong foundation in web development and a focus on user-centric design, I thrive at the intersection of code, creativity, and user experience. I enjoy tackling complex challenges and building efficient, user-friendly solutions.
 
