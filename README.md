@@ -7,7 +7,7 @@ Full Stack Engineer building scalable systems at **Enso** | IIIT Jabalpur '24
 I build high-performance distributed systems and AI-powered applications. Currently improving contract parsing accuracy with vector embeddings and semantic search at Enso.
 
 **Recent highlights:**
-- Engineered [SneakDex](https://github.com/Sneakyhydra) — a production-grade distributed search engine indexing 80K+ documents with sub-second latencies
+- Engineered [SneakDex]([https://github.com/Sneakyhydra](https://www.dhruvrishishwar.com/projects/sneakdex/live)) — a production-grade distributed search engine indexing 80K+ documents with sub-second latencies
 - Built microservices architecture with Go, Rust, and Python orchestrated via Kafka
 - Implemented hybrid search combining vector DB and full-text search with 80%+ cache hit rates
 
