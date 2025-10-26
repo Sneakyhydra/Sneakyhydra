@@ -31,6 +31,7 @@ DevOps:        AWS • CI/CD • Prometheus • Grafana
 
 ## 📫 Let's Connect
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-dhruvrishishwar.com-000000?style=flat&logo=safari&logoColor=white)](https://www.dhruvrishishwar.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dhruvrishishwar-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/dhruvrishishwar)
 [![Email](https://img.shields.io/badge/Email-dhruvrishishwar2@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dhruvrishishwar2@gmail.com)
 
