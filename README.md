@@ -1,30 +1,39 @@
-# 👋 Hi there, I'm Dhruv Rishishwar! #
-🚀 Full-Stack Developer | Tech Enthusiast | Creative Problem Solver | Quick Learner
+# Hey there, I'm Dhruv 👋
 
-I’m a passionate developer who loves turning ideas into scalable and impactful web applications. With a strong foundation in web development and a focus on user-centric design, I thrive at the intersection of code, creativity, and user experience. I enjoy tackling complex challenges and building efficient, user-friendly solutions.
+Full Stack Engineer building scalable systems at **Enso** | IIIT Jabalpur '24
 
-# 🔭 Currently Working On #
-Developing robust web applications and improving UI/UX design for better engagement.
+## 🚀 What I Do
 
-# 🌱 Currently Learning #
-Advanced web application design patterns and backend optimizations.
+I build high-performance distributed systems and AI-powered applications. Currently improving contract parsing accuracy with vector embeddings and semantic search at Enso.
 
-# 🔧 Tech Stack #
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Javascript](https://img.shields.io/badge/javascript-%23ED8B00.svg?style=for-the-badge&logo=javascript&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Ruby](https://img.shields.io/badge/ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%23074000.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Agile](https://img.shields.io/badge/agile-%230eac5b.svg?style=for-the-badge&logo=agile&logoColor=white)
+**Recent highlights:**
+- Engineered [SneakDex](https://github.com/Sneakyhydra) — a production-grade distributed search engine indexing 80K+ documents with sub-second latencies
+- Built microservices architecture with Go, Rust, and Python orchestrated via Kafka
+- Implemented hybrid search combining vector DB and full-text search with 80%+ cache hit rates
 
-Feel free to explore my repositories, fork projects, or reach out. Let’s collaborate and create something impactful! 💻✨
+## 💻 Tech Stack
+
+```
+Languages:     TypeScript/JavaScript • Python • Go • Rust • C++ • Java
+Frontend:      React.js • Next.js • Node.js
+Backend:       Microservices • Apache Kafka • Docker • Redis
+Databases:     PostgreSQL • Qdrant (Vector DB) • Redis
+ML & Search:   Vector Embeddings • Semantic Search • Sentence Transformers
+DevOps:        AWS • CI/CD • Prometheus • Grafana
+```
+
+## 🔧 Current Focus
+
+- Distributed systems architecture
+- Vector embeddings and semantic search
+- ML-powered search engines
+- Performance optimization at scale
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-dhruvrishishwar-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/dhruvrishishwar)
+[![Email](https://img.shields.io/badge/Email-dhruvrishishwar2@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dhruvrishishwar2@gmail.com)
+
+---
+
+💡 Open to collaborating on distributed systems, search infrastructure, and ML engineering projects
